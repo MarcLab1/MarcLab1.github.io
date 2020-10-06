@@ -1,9 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: static void main
 published: true
 ---
 
-dsfdasfsdafdsfa
-fsd
-sdf
+Hello World?
