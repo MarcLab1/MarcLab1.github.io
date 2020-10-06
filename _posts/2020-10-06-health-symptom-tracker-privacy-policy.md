@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 MLab1 built the Health Symptom Tracker app as a Free app. This SERVICE is provided by MLab1 at no cost and is intended for use as is.
@@ -55,4 +55,3 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 Contact Us
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
-
