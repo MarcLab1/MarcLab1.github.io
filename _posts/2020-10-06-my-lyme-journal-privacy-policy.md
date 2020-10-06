@@ -3,7 +3,7 @@ published: false
 ---
 
 
-LymeApps built the MyLymeJournal app as a Free app. This SERVICE is provided by LymeApps at no cost and is intended for use as is.
+MLab1 built the MyLymeJournal app as a Free app. This SERVICE is provided by Mlab1 at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -56,4 +56,3 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 Contact Us
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
-
