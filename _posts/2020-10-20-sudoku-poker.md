@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 MLab1 built the Sudoku Poker app as a Free app. This SERVICE is provided by MLab1 at no cost and is intended for use as is.
