@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 AZ-204
 ![]({{site.baseurl}}/https://storage002.blob.core.windows.net/azurebadges/204 badge.png)
