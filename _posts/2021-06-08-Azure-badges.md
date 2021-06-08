@@ -2,9 +2,8 @@
 published: true
 ---
 
-AZ-204
-![204 badge.png]({{site.baseurl}}/_posts/204 badge.png)
 
-AZ-900
-![900 badge.png]({{site.baseurl}}/_posts/900 badge.png)
+![204badge.png]({{site.baseurl}}/_posts/204badge.png)
+
+![900badge.png]({{site.baseurl}}/_posts/900badge.png)
 
