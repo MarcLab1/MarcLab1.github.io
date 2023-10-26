@@ -10,7 +10,19 @@ This privacy notice for MLab ("we," "us," or "our"), describes how and why we mi
 
 SUMMARY OF KEY POINTS
 
-This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for.What personal information do we process? When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about personal information you disclose to us.Do we process any sensitive personal information? We may process sensitive personal information when necessary with your consent or as otherwise permitted by applicable law. Learn more about sensitive information we process.Do we receive any information from third parties? We do not receive any information from third parties.How do we process your information? We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about how we process your information.In what situations and with which parties do we share personal information? We may share information in specific situations and with specific third parties. Learn more about when and with whom we share your personal information.How do we keep your information safe? We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about how we keep your information safe.What are your rights? Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about your privacy rights.How do you exercise your rights? The easiest way to exercise your rights is by submitting a data subject access request, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.Want to learn more about what we do with any information we collect? Review the privacy notice in full.TABLE OF CONTENTS
+This summary provides key points from our privacy notice, but you can find out more details about any of these topics by using our table of contents below to find the section you are looking for.
+
+What personal information do we process? When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about personal information you disclose to us.
+
+Do we process any sensitive personal information? We may process sensitive personal information when necessary with your consent or as otherwise permitted by applicable law. Learn more about sensitive information we process.Do we receive any information from third parties? We do not receive any information from third parties.
+
+How do we process your information? We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about how we process your information.
+
+In what situations and with which parties do we share personal information? We may share information in specific situations and with specific third parties. Learn more about when and with whom we share your personal information.How do we keep your information safe? We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about how we keep your information safe.
+
+What are your rights? Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about your privacy rights.How do you exercise your rights? The easiest way to exercise your rights is by submitting a data subject access request, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.Want to learn more about what we do with any information we collect? Review the privacy notice in full.
+
+TABLE OF CONTENTS
 
 1. WHAT INFORMATION DO WE COLLECT?
 
@@ -69,7 +81,9 @@ In Short: We only process your personal information when we believe it is neces
 
 • Legal Obligations. We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.
 
-• Vital Interests. We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.If you are located in Canada, this section applies to you.We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can withdraw your consent at any time.In some exceptional cases, we may be legally permitted under applicable law to process your information without your consent, including, for example:
+• Vital Interests. We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.If you are located in Canada, this section applies to you.We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can withdraw your consent at any time.
+
+In some exceptional cases, we may be legally permitted under applicable law to process your information without your consent, including, for example:
 
 • If collection is clearly in the interests of an individual and consent cannot be obtained in a timely way
 
@@ -125,23 +139,75 @@ In Short: We do not knowingly collect data from or market to children under 18 
 
 In Short: In some regions, such as the European Economic Area (EEA), United Kingdom (UK), Switzerland, and Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (iv) if applicable, to data portability; and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?" below.We will consider and act upon any request in accordance with applicable data protection laws. If you are located in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your Member State data protection authority or UK data protection authority.If you are located in Switzerland, you may contact the Federal Data Protection and Information Commissioner.Withdrawing your consent: If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?" below.However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.Account InformationIf you would at any time like to review or change the information in your account or terminate your account, you can:
 
-• Contact us using the contact information provided.Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our legal terms and/or comply with applicable legal requirements. 10. CONTROLS FOR DO-NOT-TRACK FEATURESMost web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.11. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?In Short: If you are a resident of  California, Colorado, Connecticut, Utah or Virginia, you are granted specific rights regarding access to your personal information.What categories of personal information do we collect?We have collected the following categories of personal information in the past twelve (12) months:CategoryExamplesCollectedA. IdentifiersContact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account nameYESB. Personal information as defined in the California Customer Records statuteName, contact information, education, employment, employment history, and financial informationNOC. Protected classification characteristics under state or federal lawGender and date of birthNOD. Commercial informationTransaction information, purchase history, financial details, and payment informationNOE. Biometric informationFingerprints and voiceprintsNOF. Internet or other similar network activityBrowsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisementsNOG. Geolocation dataDevice locationYESH. Audio, electronic, visual, thermal, olfactory, or similar informationImages and audio, video or call recordings created in connection with our business activitiesNOI. Professional or employment-related informationBusiness contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with usNOJ. Education InformationStudent records and directory informationNOK. Inferences drawn from collected personal informationInferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristicsNOL. Sensitive personal InformationHealth dataYESWe will use and retain the collected personal information as needed to provide the Services or for:
+• Contact us using the contact information provided.Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our legal terms and/or comply with applicable legal requirements. 10. CONTROLS FOR DO-NOT-TRACK FEATURES
 
-• Category A - As long as the user has an account with us
+Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
 
-• Category G - As long as the user has an account with us
 
-• Category L - As long as the user has an account with us
+11. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
-Category L information may be used, or disclosed to a service provider or contractor, for additional, specified purposes. You have the right to limit the use or disclosure of your sensitive personal information.We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
 
-• Receiving help through our customer support channels;
+In Short: If you are a resident of California, Colorado, Connecticut, Utah or Virginia, you are granted specific rights regarding
+access to your personal information.
 
-• Participation in customer surveys or contests; and
 
-• Facilitation in the delivery of our Services and to respond to your inquiries.How do we use and share your personal information?Learn about how we use your personal information in the section, "HOW DO WE PROCESS YOUR INFORMATION?"Will your information be shared with anyone else?We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, "WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?"
+What categories of personal information do we collect?
 
-We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers.
+
+We have collected the following categories of personal information in the past twelve (12) months:
+
+
+![image](https://github.com/MarcLab1/MarcLab1.github.io/assets/16921266/cd65fb00-6c06-4a1b-b0a6-65f2003b4d8e)
+
+
+
+
+
+We will use and retain the collected personal information as needed to provide the Services or for:
+ * Category A - As long as the user has an account with us
+
+ * Category G - As long as the user has an account with us
+
+ * Category L - As long as the user has an account with us
+
+Category L information may be used, or disclosed to a service provider or contractor, for additional, specified purposes. You have
+the right to limit the use or disclosure of your sensitive personal information.
+
+
+
+We may also collect other personal information outside of these categories through instances where you interact with us in person,
+online, or by phone or mail in the context of:
+ * Receiving help through our customer support channels;
+
+
+ * Participation in customer surveys or contests; and
+
+
+ * Facilitation in the delivery of our Services and to respond to your inquiries.
+
+How do we use and share your personal information?
+
+
+Learn about how we use your personal information in the section, "HOW DO WE PROCESS YOUR INFORMATION?"
+
+
+
+Will your information be shared with anyone else?
+
+
+We may disclose your personal information with our service providers pursuant to a written contract between us and each service
+provider. Learn more about how we disclose personal information to in the section, "WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL
+INFORMATION?"
+
+
+We may use your personal information for our own business purposes, such as for undertaking internal research for technological
+development and demonstration. This is not considered to be "selling" of your personal information.
+
+
+We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the
+preceding twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users,
+and other consumers.
+
 
 California Residents
 
